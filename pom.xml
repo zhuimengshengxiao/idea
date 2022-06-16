@@ -11,11 +11,7 @@
         <!-- 增加相关依赖包 -->
 
         <!-- Postgresql驱动包 -->
-        <!-- <dependency>
-            <groupId>org.postgresql</groupId>
-            <artifactId>postgresql</artifactId>
-            <scope>runtime</scope>
-        </dependency> -->
+
 
         <!-- MySQL驱动包 -->
         <dependency>
